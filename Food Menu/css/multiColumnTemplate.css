@@ -128,7 +128,7 @@
 }
 .right_article {
 	width: 40%;
-	float: left;
+	float: right;
 	background-color: #F6F6F6;
 }
 .container .right_article ul {
